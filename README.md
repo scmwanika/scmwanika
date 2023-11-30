@@ -1,7 +1,7 @@
 <h1 align="center">Welcome; I'm Stephen Crispin Mwanika.</h1>
 <h3 align="center">fullstack developer, backend heavily</h3>
 
-- 🔭 I’m currently working on [e-commerce web application](https://jokisereko.vercel.app/)
+- 🔭 I’m currently working on [business information system](https://jokisereko.vercel.app/)
 
 - 🌱 I’m currently learning **RabbitMQ**
 
