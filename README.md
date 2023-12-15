@@ -1,11 +1,11 @@
-<h1 align="center">I am Stephen Crispin Mwanika.</h1>
-<h3 align="center">A fullstack developer; backend heavily.</h3>
+<h1 align="center">Welcome! I am Stephen Crispin Mwanika.</h1>
+<h3 align="center">A full-stack developer, backend heavily.</h3>
 
-- 🔭 I’m currently working on **Content Management System for an e-commerce web app https://jokisereko.vercel.app/**
+- 🔭 **Currently working on a Content Management System for an e-commerce web app https://jokisereko.vercel.app/**
 
-- 🌱 I’m currently learning **Message Queueing with RabbitMQ**
+- 🌱 **Also learning Message Queueing with RabbitMQ**
 
-- 📫 How to reach me **stephenmwanika@gmail.com**
+- 📫 **E-mail: stephenmwanika@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
