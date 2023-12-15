@@ -1,9 +1,9 @@
-<h1 align="center">Welcome; I'm Stephen Crispin Mwanika.</h1>
-<h3 align="center">fullstack developer, backend heavily</h3>
+<h1 align="center">I am Stephen Crispin Mwanika.</h1>
+<h3 align="center">A fullstack developer; backend heavily.</h3>
 
 - 🔭 I’m currently working on [business information system](https://jokisereko.vercel.app/)
 
-- 🌱 I’m currently learning **RabbitMQ**
+- 🌱 I’m currently learning Message Queueing with **RabbitMQ**
 
 - 📫 How to reach me **stephenmwanika@gmail.com**
 
