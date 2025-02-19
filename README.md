@@ -1,7 +1,7 @@
-<h1 align="center">Welcome! I am Stephen Crispin Mwanika.</h1>
-<h3 align="center">A full-stack developer, backend heavily.</h3>
+<h1 align="center">I am Stephen Crispin Mwanika.</h1>
+<h3 align="center">A full-stack developer</h3>
 
-- 🔭 **Currently building an eCommerce web application https://jokisereko.vercel.app/**
+- 🔭 **Currently building E-commerce software solutions https://jokisereko.vercel.app/**
 
 - 🌱 **Also learning Message Queueing with RabbitMQ and LavinMQ**
 
