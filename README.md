@@ -3,8 +3,7 @@
 
 - 🔭 **Currently building Software-as-a-Service solutions. https://jokisereko.vercel.app/**
   
-    - **features:<br />
-      E-Commerce platform,<br /> inventory management,<br /> bookkeeping and accounting,<br /> operational dashboard.**
+    - **features:<br />E-Commerce,<br /> inventory management,<br /> bookkeeping and accounting,<br /> operational dashboard.**
 
 - 🌱 **Also learning Message Queueing with LavinMQ**
 
