@@ -2,6 +2,9 @@
 <h3 align="center">A full-stack developer</h3>
 
 - 🔭 **Currently building Software-as-a-Service. https://jokisereko.vercel.app/**
+  
+- **features:<br />
+      E-Commerce platform,<br /> inventory management,<br /> bookkeeping and accounting,<br /> operational dashboard.**
 
 - 🌱 **Also learning Message Queueing with LavinMQ**
 
