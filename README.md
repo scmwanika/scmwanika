@@ -1,7 +1,7 @@
 <h1 align="center">Stephen Crispin Mwanika</h1>
 <h3 align="center">A full-stack developer</h3>
 
-- 🔭 **Currently building Software-as-a-Service. https://jokisereko.vercel.app/**
+- 🔭 **Currently building Software-as-a-Service solutions. https://jokisereko.vercel.app/**
   
     - **features:<br />
       E-Commerce platform,<br /> inventory management,<br /> bookkeeping and accounting,<br /> operational dashboard.**
