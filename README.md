@@ -1,9 +1,7 @@
-<h1 align="center">Stephen Crispin Mwanika</h1>
+<h1 align="center">Mwanika Stephen Crispin</h1>
 <h3 align="center">A full-stack developer</h3>
 
-- 🔭 **Currently building Software-as-a-Service solutions. https://jokisereko.vercel.app/**
-  
-    - **features:<br />E-Commerce,<br /> inventory management,<br /> bookkeeping and accounting,<br /> operational dashboard.**
+- 🔭 **Currently building Supply Chain SaaS. https://mschain.io/about**
 
 - 🌱 **Also learning Message Queueing with LavinMQ**
 
