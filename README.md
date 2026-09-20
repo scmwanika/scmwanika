@@ -1,5 +1,5 @@
 <h1 align="center">Mwanika Stephen Crispin</h1>
-<h3 align="center">A full-stack developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - **Currently building SaaS for Retail Management. https://mschain.io/about**
 
@@ -69,5 +69,3 @@
     />
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scmwanika&show_icons=true&locale=en&layout=compact" alt="scmwanika" /></p>
