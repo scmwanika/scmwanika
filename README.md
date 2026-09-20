@@ -1,7 +1,7 @@
 <h1 align="center">Mwanika Stephen Crispin</h1>
 <h3 align="center">Software Developer</h3>
 
-- **Currently building SaaS for Retail Management. https://mschain.io/about**
+- **Currently building Retail Management Solutions. https://mschain.io/about**
 
 - **E-mail: stephenmwanika@gmail.com**
 
