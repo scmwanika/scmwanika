@@ -1,11 +1,9 @@
 <h1 align="center">Mwanika Stephen Crispin</h1>
 <h3 align="center">A full-stack developer</h3>
 
-- 🔭 **Currently building Supply Chain SaaS. https://mschain.io/about**
+- **Currently building SaaS for Retail Management. https://mschain.io/about**
 
-- 🌱 **Also learning Message Queueing with LavinMQ**
-
-- 📫 **E-mail: stephenmwanika@gmail.com**
+- **E-mail: stephenmwanika@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
